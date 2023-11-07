@@ -1,2 +1,3 @@
 /* Sélectionner tous les noms des entités */
-SELECT Name FROM entity
+SELECT Name
+FROM entity
